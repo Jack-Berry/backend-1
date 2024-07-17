@@ -1,0 +1,430 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Which character in the &quot;Animal Crossing&quot; series uses the phrase &quot;zip zoom&quot; when talking to the player?",
+    "correct_answer": "Scoot",
+    "incorrect_answers": ["Drake", "Bill", "Mallary"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "In what year was McDonald&#039;s founded?",
+    "correct_answer": "1955",
+    "incorrect_answers": ["1964", "1951", "1947"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Comics",
+    "question": "Who is Batman?",
+    "correct_answer": "Bruce Wayne",
+    "incorrect_answers": ["Clark Kent", "Barry Allen", "Tony Stark"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "In career mode of &quot;Need for Speed: Underground 2&quot;, the first car the player can drive is the BMW M3 GTR.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Entertainment: Music",
+    "question": "Metallica collaborated with Rowan Atkinson&#039;s Mr Bean on a 1992 comic relief single.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "In which country is Tallinn located?",
+    "correct_answer": "Estonia",
+    "incorrect_answers": ["Finland", "Sweden", "Poland"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Film",
+    "question": "Which movie contains the quote, &quot;Say hello to my little friend!&quot;?",
+    "correct_answer": "Scarface",
+    "incorrect_answers": ["Reservoir Dogs", "Heat", "Goodfellas"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Which programming language was developed by Sun Microsystems in 1995?",
+    "correct_answer": "Java",
+    "incorrect_answers": ["Python", "Solaris OS", "C++"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Television",
+    "question": "Dee from &quot;It&#039;s Always Sunny in Philadelphia&quot; has dated all of the following guys EXCEPT",
+    "correct_answer": "Matthew &quot;Rickety Cricket&quot; Mara",
+    "incorrect_answers": [
+      "Colin the Thief",
+      "Ben the Soldier",
+      "Kevin Gallagher aka Lil&#039; Kevin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+    "correct_answer": "Mike",
+    "incorrect_answers": ["Matthew", "Mark", "Max"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Music",
+    "question": "According to the RIAA: Which artist has sold the most albums by the million?",
+    "correct_answer": "The Beatles",
+    "incorrect_answers": ["Elvis Presley", "Michael Jackson", "Pink Floyd"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Board Games",
+    "question": "What was the development code name for the &quot;Urza&#039;s Destiny&quot; expansion for &quot;Magic: The Gathering&quot;, released in 1999?",
+    "correct_answer": "Chimichanga",
+    "incorrect_answers": ["Burrito", "Taquito", "Enchilada"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "Which is the world&#039;s longest river?",
+    "correct_answer": "Nile",
+    "incorrect_answers": ["Missouri", "Amazon", "Yangtze"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "The color orange is named after the fruit.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "What system was &quot;Touhou: Highly Responsive to Prayers&quot; released on?",
+    "correct_answer": "PC-98",
+    "incorrect_answers": ["OSX 10.9.5", "Windows ME", "Windows 98"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "hard",
+    "category": "Art",
+    "question": "The Statue of Liberty&#039;s official name is &ldquo;Liberty Enlightening the World&rdquo;.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "What is the name of the first boss the player encounters in the 2017 game, &quot;Little Nightmares&quot;?",
+    "correct_answer": "The Janitor",
+    "incorrect_answers": ["The Warden", "The Caretaker", "The Overseer"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Mythology",
+    "question": "Nidhogg is a mythical creature from what mythology?",
+    "correct_answer": "Norse",
+    "incorrect_answers": ["Egyptian", "Greek", "Hindu"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "What is the capital of the US State of New York?",
+    "correct_answer": "Albany",
+    "incorrect_answers": ["Buffalo", "New York", "Rochester"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "&quot;Windows NT&quot; is a monolithic kernel.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "Which of the following European languages is classified as a &quot;language isolate?&quot;",
+    "correct_answer": "Basque",
+    "incorrect_answers": ["Galician", "Maltese", "Hungarian"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "Who is the protagonist in the game &quot;The Walking Dead: Season One&quot;?",
+    "correct_answer": "Lee Everett",
+    "incorrect_answers": ["Clementine", "Kenny", "Rick Grimes"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "&quot;Rollercoaster Tycoon&quot; was programmed mostly entirely in...",
+    "correct_answer": "x86 Assembly",
+    "incorrect_answers": ["C++", "C", "ALGOL"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Animals",
+    "question": "The average lifespan of a wildcat is only around 5-6 years. ",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "If you grab the bladed end of a longsword in a specific way, you will not cut yourself.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Geography",
+    "question": "Which is the largest freshwater lake in the world?",
+    "correct_answer": "Lake Superior ",
+    "incorrect_answers": ["Caspian Sea", "Lake Michigan", "Lake Huron"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "In Portal 2, how did CEO of Aperture Science, Cave Johnson, presumably die?",
+    "correct_answer": "Moon Rock Poisoning",
+    "incorrect_answers": [
+      "Accidentally sending a portal to the Moon",
+      "Slipped in the shower",
+      "Asbestos Poisoning"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "The Southeast Asian island of Borneo is politically divided among 3 countries.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "In the Halo series, which era of SPARTAN is Master Chief? ",
+    "correct_answer": "SPARTAN-II",
+    "incorrect_answers": ["SPARTAN-I", "SPARTAN-III", "SPARTAN-IV"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "Pluto is a planet.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "In the game &quot;Undertale&quot;, who was Mettaton&#039;s creator?",
+    "correct_answer": "Alphys",
+    "incorrect_answers": ["Undyne", "Sans", "Asgore"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "In which year did the first Monster Hunter game get released?",
+    "correct_answer": "2004",
+    "incorrect_answers": ["2006", "2005", "2002"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "When was the SS or Schutzstaffel established?",
+    "correct_answer": "April 4th, 1925",
+    "incorrect_answers": [
+      "September 1st, 1941",
+      "March 8th, 1935",
+      "February 21st, 1926"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "Which of the following songs did Elton John perform following Princess Diane&#039;s passing?",
+    "correct_answer": "Candles in the Wind",
+    "incorrect_answers": [
+      "I Guess That&#039;s Why They Call It The Blues",
+      "Your Song",
+      "Island Girl"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Celebrities",
+    "question": "By what name is Carlos Estevez better known? ",
+    "correct_answer": "Charlie Sheen",
+    "incorrect_answers": ["Ricky Martin", "Bruno Mars", "Joaquin Phoenix"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Video Games",
+    "question": "According to Toby Fox, what was the method to creating the initial tune for Megalovania?",
+    "correct_answer": "Singing into a Microphone",
+    "incorrect_answers": [
+      "Playing a Piano",
+      "Using a Composer Software",
+      "Listened to birds at the park"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "question": "What alcoholic drink is mainly made from juniper berries?",
+    "correct_answer": "Gin",
+    "incorrect_answers": ["Vodka", "Rum", "Tequila"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "easy",
+    "category": "Animals",
+    "question": "The Killer Whale is considered a type of dolphin.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Who played the Waitress in the Spam sketch of &quot;Monty Python&#039;s Flying Circus&quot;?",
+    "correct_answer": "Terry Jones",
+    "incorrect_answers": ["Eric Idle", "Graham Chapman", "John Cleese"]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Sports",
+    "question": "Formula E is an auto racing series that uses hybrid electric race cars.",
+    "correct_answer": "False",
+    "incorrect_answers": ["True"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Celebrities",
+    "question": "In 2014, this new top 100 rapper who featured in &quot;Computers&quot; and &quot;Body Dance&quot; was arrested in a NYPD sting for murder.",
+    "correct_answer": "Bobby Shmurda",
+    "incorrect_answers": ["DJ Snake", "Swae Lee", "Young Thug"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "In the game Nuclear Throne, what character is only usable in a play through with Melting?",
+    "correct_answer": "Skeleton",
+    "incorrect_answers": ["Frog", "Horror", "Plant"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Books",
+    "question": "In the &quot;Harry Potter&quot; novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?",
+    "correct_answer": "Answer a riddle",
+    "incorrect_answers": [
+      "Rhythmically tap barrels with a wand",
+      "Speak a password",
+      "Knock in sequence"
+    ]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Video Games",
+    "question": "What is the most expensive weapon in Counter-Strike: Global Offensive?",
+    "correct_answer": "Scar-20/G3SG1",
+    "incorrect_answers": ["M4A1", "AWP", "R8 Revolver"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Video Games",
+    "question": "In the Portal series of games, who was the founder of Aperture Science?",
+    "correct_answer": "Cave Johnson",
+    "incorrect_answers": ["GLaDOs", "Wallace Breen", "Gordon Freeman"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "The fraudelent doctor John R. Brinkley acummulated great fame and wealth in the early 1900s offering what service?",
+    "correct_answer": "Goat testicles transplant",
+    "incorrect_answers": [
+      "Pig blood transfusion",
+      "Cow liver transplant",
+      "Turkey breast implants"
+    ]
+  },
+  {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Mathematics",
+    "question": "A &#039;Millinillion&#039; is a real number.",
+    "correct_answer": "True",
+    "incorrect_answers": ["False"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Comics",
+    "question": "What is the designation given to the Marvel Cinematic Universe?",
+    "correct_answer": "Earth-199999",
+    "incorrect_answers": ["Earth-616", "Earth-10005", "Earth-2008"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "If soccer is called football in England, what is American football called in England?",
+    "correct_answer": "American football",
+    "incorrect_answers": ["Combball", "Handball", "Touchdown"]
+  }
+]
